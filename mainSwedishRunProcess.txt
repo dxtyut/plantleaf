@@ -1,0 +1,39 @@
+
+============== Experiments on Swedish ==============
+============== Extract Features for all Images =====
+============== Taking about 2.5 Hours ==============
+
+
+Round 1
+============== Load Random Split Index ========================
+============== Performing SVM Training and Prediction =========
+
+
+Round 2
+============== Load Random Split Index ========================
+============== Performing SVM Training and Prediction =========
+
+
+Round 3
+============== Load Random Split Index ========================
+============== Performing SVM Training and Prediction =========
+
+
+Round 4
+============== Load Random Split Index ========================
+============== Performing SVM Training and Prediction =========
+
+
+Round 5
+============== Load Random Split Index ========================
+============== Performing SVM Training and Prediction =========
+
+
+============== Results Report =================
+  100.0000  100.0000   99.8667  100.0000  100.0000
+
+Average recognition accuracy: 99.973333
+Standard deviation: 0.059628
+===============================================
+
+>> 

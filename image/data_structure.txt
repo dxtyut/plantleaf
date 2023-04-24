@@ -1,0 +1,10 @@
+
+|--image
+|   | --Swedish
+|	|	| --leaf01
+|	|	|	| --l1nr001.tif
+|	|	|	| --l1nr002.tif
+|	|	| --leaf02
+|	|	|	| --l2nr001.tif
+|	|	|	| --l2nr002.tif
+|	|	| --leaf03
